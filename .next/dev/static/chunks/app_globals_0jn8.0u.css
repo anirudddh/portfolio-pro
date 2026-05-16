@@ -1,0 +1,14 @@
+/* [project]/app/globals.css [app-client] (css) */
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+  color: #fff;
+  background: #050816;
+  font-family: sans-serif;
+}
+
+/*# sourceMappingURL=app_globals_0jn8.0u.css.map*/
